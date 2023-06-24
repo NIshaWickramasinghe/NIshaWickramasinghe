@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nishadini S. Wickramasinghe</h1>
 <h3 align="center">Software Engineer</h3>
 
+<img src="https://img.freepik.com/free-vector/low-code-development-concept-illustration_114360-7294.jpg">
+
 - 📫 How to reach me **nishawickramasinghe73@gmail.com**
 
 - ⚡ Fun fact **I think I am funny.**
